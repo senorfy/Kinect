@@ -1,0 +1,32 @@
+﻿  AllTheKinect.cpp
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(242,48): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(242,48): warning C4244:         with
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(242,48): warning C4244:         [
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(242,48): warning C4244:             _Tp=int
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(242,48): warning C4244:         ]
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(242,27): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(242,27): warning C4244:         with
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(242,27): warning C4244:         [
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(242,27): warning C4244:             _Tp=int
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(242,27): warning C4244:         ]
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(243,76): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(243,76): warning C4244:         with
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(243,76): warning C4244:         [
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(243,76): warning C4244:             _Tp=int
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(243,76): warning C4244:         ]
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(243,53): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(243,53): warning C4244:         with
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(243,53): warning C4244:         [
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(243,53): warning C4244:             _Tp=int
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(243,53): warning C4244:         ]
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(243,129): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(243,129): warning C4244:         with
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(243,129): warning C4244:         [
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(243,129): warning C4244:             _Tp=int
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(243,129): warning C4244:         ]
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(243,106): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(243,106): warning C4244:         with
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(243,106): warning C4244:         [
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(243,106): warning C4244:             _Tp=int
+E:\kinect\kinect_opencv\kinect\AllTheKinect.cpp(243,106): warning C4244:         ]
+  kinect.vcxproj -> E:\kinect\kinect_opencv\kinect\x64\Debug\kinect.exe
